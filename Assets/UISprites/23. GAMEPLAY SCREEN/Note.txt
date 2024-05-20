@@ -1,0 +1,1 @@
+Most elements need dropshadow in order to pop out. The dropshadow for the tricks and different numbers needs to be coded in. Also the tricks are using different scaling. From top to bottom - pro, semipro, amateur, rookie. Rookie is the smalles going bigger upwards.

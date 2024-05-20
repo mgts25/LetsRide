@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1TitleScene.unity
+    guid: c90042fa9f5606840a73fa3fee8de338
+  - enabled: 1
+    path: Assets/Scenes/2MenuScene.unity
+    guid: b74a032d0075b874a97532d2a12a2e97
+  - enabled: 1
+    path: Assets/Scenes/3PlayerScene.unity
+    guid: 4f836e55f3714b64f96ed3ec969959f2
+  - enabled: 1
+    path: Assets/Scenes/4LoginScene.unity
+    guid: 824c8081a73f3244a8a69542e8b5d08d
+  - enabled: 1
+    path: Assets/Scenes/5RecoverPasswordScene.unity
+    guid: 94328c72428559f4ca0c42ca14150e62
+  - enabled: 1
+    path: Assets/Scenes/6CreateAccountScene.unity
+    guid: 2c64bc6ba1ed18c4e866a41e739c13b3
+  - enabled: 1
+    path: Assets/Scenes/7ProfileInfoScene.unity
+    guid: 43ad190acfb257a419145d2942a1b395
+  - enabled: 1
+    path: Assets/Scenes/8ModeSelectScene.unity
+    guid: c4bc44483f188cd408950a5e3a424f7e
+  - enabled: 1
+    path: Assets/Scenes/9ChoosePathScene.unity
+    guid: 60c79853d40a83046b790a1fcf849ab0
+  - enabled: 1
+    path: Assets/Scenes/10SettingScene.unity
+    guid: 029a48bbed42de546b7673b8026f2dbd
+  - enabled: 1
+    path: Assets/Scenes/11RankingScene.unity
+    guid: 21f648f8fe49b6948ae78232e5577410
+  - enabled: 1
+    path: Assets/Scenes/12ShopScene.unity
+    guid: 2c2341ccd3a3b45458b16fbd74a3a276
+  - enabled: 1
+    path: Assets/Scenes/13SkinScene.unity
+    guid: eba47379492dba24986ee1917acc178e
+  - enabled: 1
+    path: Assets/Scenes/14ClothScene.unity
+    guid: c99ca41dae9ec4a46bf18194cec29418
+  - enabled: 1
+    path: Assets/Scenes/17CareerScene.unity
+    guid: 3b74776712d09d543afbfe6fe10a3633
+  - enabled: 1
+    path: Assets/Scenes/22TrickScene.unity
+    guid: 453adeb9234331341abc9dba0b4c1df1
+  - enabled: 1
+    path: Assets/Scenes/PlayScene.unity
+    guid: ea0a7a7f34a3a394b809454885b65d27
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
